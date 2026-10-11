@@ -1,18 +1,134 @@
-# 💫 About Me:
-👋 Hi, I'm **Yogeswar Reddy**, a full-stack developer with a strong focus on **backend development**, building scalable web applications, REST APIs, and reliable server-side systems.<br><br>💻 **Tech Stack**<br>- **Languages:** Python, JavaScript, C++<br>- **Backend:** Django, Django REST Framework, Node.js, Express.js<br>- **Frontend:** React.js, HTML, CSS, Tailwind CSS<br>- **Databases:** PostgreSQL, MongoDB, SQLite<br>- **Tools & Technologies:** Git, GitHub, Docker, REST APIs, JWT Authentication<br><br>🚀 **Projects I've Built**<br>- 🛒 **TradeNest** — A buy-and-sell marketplace built with React and Django REST Framework, featuring Razorpay integration.<br>- 📚 **Study-Hub** — A collaborative learning platform built with Django.<br>- 🤖 **Braina** — An AI-powered chatbot built with Django and the Gemini API.<br>- 🌐 **Portfolio** — My personal developer portfolio.<br><br>🌱 **Currently Learning**<br>- Data Structures and Algorithms (DSA)<br>- CI/CD pipelines and DevOps practices<br>- Backend architecture, API security, and scalable system design<br>- Improving my skills in Node.js, Express.js, and database management<br><br>🎯 **My Goal:** To become a strong backend engineer who builds secure, scalable, and maintainable applications.<br><br>🤝 **Open to collaborating** on backend development, open-source, and DevOps-focused projects.<br><br>📫 **Connect with me**<br>- 🌐 Portfolio: [yogeswar.dev](https://yogeswar.dev)<br>- 💼 LinkedIn: [linkedin.com/in/yogeswar2006](https://www.linkedin.com/in/yogeswar2006)<br>- 🐙 GitHub: [github.com/yogeswar2006](https://github.com/yogeswar2006)<br><br>⚡ *I enjoy turning ideas into working software and continuously learning how to build better systems.*
+[README.md](https://github.com/user-attachments/files/33309175/README.md)
+<div align="center">
 
+# 👋 Hey, I'm Yogeswar Reddy
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yogeswar2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogi8247322760@gmail.com) 
+### Backend-Focused Full-Stack Developer
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=yogeswar2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yogeswar2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=yogeswar2006&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I build web applications, REST APIs, and reliable backend systems.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-yogeswar.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://yogeswar.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yogeswar2006)
+[![Gmail](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yogi8247322760@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=yogeswar2006&style=for-the-badge&color=161B22&label=PROFILE+VIEWS)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=yogeswar2006&icon=6&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧑‍💻 About Me
+
+- 🔭 **Exploring:** Backend development and DevOps practices
+- 🌱 **Currently learning:** Data Structures & Algorithms and CI/CD pipelines
+- 💬 **Ask me about:** Django, Django REST Framework, Node.js, Express.js, and web development
+- ⚡ **Fun fact:** I turn ideas into code!
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💬 ChatHub</h3>
+      <p align="center">A real-time chat application focused on messaging, authentication, and image sharing.</p>
+      <p align="center">
+        <a href="https://github.com/yogeswar2006/ChatHub">
+          <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View ChatHub"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤝 SkillConnect</h3>
+      <p align="center">A platform designed to connect people through their skills and encourage collaboration.</p>
+      <p align="center">
+        <a href="https://github.com/yogeswar2006/SkillConnect-b">
+          <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View SkillConnect"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧠 RagBot</h3>
+      <p align="center">A repository for exploring retrieval-augmented generation (RAG) and document-based question answering.</p>
+      <p align="center">
+        <a href="https://github.com/yogeswar2006/Rag-backend">
+          <img src="https://img.shields.io/badge/View_Project-161B22?style=for-the-badge&logo=github&logoColor=white" alt="View RagBot"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 More Projects</h3>
+      <p align="center">Explore my other experiments, applications, and learning projects.</p>
+      <p align="center">
+        <a href="https://yogeswar.dev">
+          <img src="https://img.shields.io/badge/Visit_Portfolio-161B22?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Visit portfolio"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## 🛠️ Languages & Technologies
+
+<div align="center">
+
+### Languages
+<a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript"/></a>
+<a href="https://isocpp.org/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/></a>
+<a href="https://www.w3.org/html/" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/></a>
+
+### Backend & Frameworks
+<a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/></a>
+<a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django REST Framework"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express.js"/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind CSS"/></a>
+
+### Databases & Tools
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/></a>
+<a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/></a>
+<a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma"/></a>
+
+</div>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yogeswar2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true" alt="Yogeswar's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeswar2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages"/>
+</div>
+
+<div align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=yogeswar2006&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+</div>
+
+## 🔗 Find Me Online
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yogeswar2006)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yogeswar2006)
+[![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/yogeswar1590)
+[![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=FFFFFF)](https://www.codechef.com/users/jolly_cats_89)
+
+</div>
+
+---
+
+<div align="center">
+
+*⚡ Building, learning, and improving one commit at a time.*
+
+</div>
