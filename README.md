@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/33309175/README.md)
+[README (1).md](https://github.com/user-attachments/files/33309272/README.1.md)
 <div align="center">
 
 # 👋 Hey, I'm Yogeswar Reddy
@@ -7,11 +7,7 @@
 
 I build web applications, REST APIs, and reliable backend systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yogeswar.dev-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF)](https://yogeswar.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yogeswar2006)
-[![Gmail](https://img.shields.io/badge/Email-Contact-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:yogi8247322760@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yogeswar2006&style=for-the-badge&color=161B22&label=PROFILE+VIEWS)
+🌐 [Portfolio](https://yogeswar.dev) · 💼 [LinkedIn](https://linkedin.com/in/yogeswar2006) · ✉️ [Email](mailto:yogi8247322760@gmail.com)
 
 </div>
 
@@ -22,7 +18,7 @@ I build web applications, REST APIs, and reliable backend systems.
 - 🔭 **Exploring:** Backend development and DevOps practices
 - 🌱 **Currently learning:** Data Structures & Algorithms and CI/CD pipelines
 - 💬 **Ask me about:** Django, Django REST Framework, Node.js, Express.js, and web development
-- ⚡ **Fun fact:** I turn ideas into code!
+
 
 ## 🚀 Featured Projects
 
@@ -118,10 +114,7 @@ I build web applications, REST APIs, and reliable backend systems.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yogeswar2006)
-[![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/yogeswar2006)
-[![Codeforces](https://img.shields.io/badge/Codeforces-0D1117?style=for-the-badge&logo=codeforces&logoColor=1F8ACB)](https://codeforces.com/profile/yogeswar1590)
-[![CodeChef](https://img.shields.io/badge/CodeChef-0D1117?style=for-the-badge&logo=codechef&logoColor=FFFFFF)](https://www.codechef.com/users/jolly_cats_89)
+💼 [LinkedIn](https://linkedin.com/in/yogeswar2006) · 🧩 [LeetCode](https://leetcode.com/yogeswar2006) · 🏁 [Codeforces](https://codeforces.com/profile/yogeswar1590) · 🍴 [CodeChef](https://www.codechef.com/users/jolly_cats_89)
 
 </div>
 
@@ -129,6 +122,6 @@ I build web applications, REST APIs, and reliable backend systems.
 
 <div align="center">
 
-*⚡ Building, learning, and improving one commit at a time.*
+* Building, learning, and improving one commit at a time.*
 
 </div>
